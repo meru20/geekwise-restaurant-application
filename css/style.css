@@ -1,0 +1,12 @@
+body {
+    background-color: #ebeae1;
+    font-family: 'Belleza';font-size: 22px;
+}
+
+.underline {
+    border-bottom: maroon solid 10px;
+}
+
+.landing_center {
+    padding-top: 30%;
+}
