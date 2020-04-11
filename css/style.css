@@ -1,12 +1,23 @@
 body {
-    background-color: #ebeae1;
     font-family: 'Belleza';font-size: 22px;
+}
+
+.bg1 {
+    background-color: #ebeae1;
+}
+
+.bg2 {
+    background-color: #945c09;
+}
+
+.bg3 {
+    background-color: maroon;
 }
 
 .underline {
     border-bottom: maroon solid 10px;
 }
 
-.landing_center {
+.vertical_center {
     padding-top: 30%;
 }
