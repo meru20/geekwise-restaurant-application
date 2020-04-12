@@ -6,7 +6,7 @@ This is a demo of a simple restaurant ordering application with html and css
 * Landing Page - `index.html`
 * Login Page - `login.html`
 * Ordering Page - `order.html`
-* View Orders Page - `view_order.html`
+* View Orders Page - `view-order.html`
 
 
 ## Demo:
